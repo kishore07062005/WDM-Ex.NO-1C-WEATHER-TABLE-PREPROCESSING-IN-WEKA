@@ -96,8 +96,7 @@ Procedure:
 
 
 ## Weather Table after Normalizing TEMPARATURE, HUMIDITY :
-
-
+#
 
 <img width="1217" height="440" alt="image" src="https://github.com/user-attachments/assets/233410cd-0642-4077-bd7a-41907d594c7b" />
 
