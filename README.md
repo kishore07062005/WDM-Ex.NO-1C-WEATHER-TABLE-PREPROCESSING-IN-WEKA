@@ -74,8 +74,10 @@ Procedure:
 9)	Select the attributes windy, play to Remove.
 10)	Click Remove button and then Save.
 11)	Click on the Edit button, it shows a new Weather Table on Weka.
+
  
 ## Weather Table after removing attributes WINDY, PLAY:
+
 <img width="1027" height="503" alt="image" src="https://github.com/user-attachments/assets/5434a449-6f1e-4907-8574-3845d7be93bf" />
 
 ## Normalize Pre-Processing Technique:
@@ -93,7 +95,9 @@ Procedure:
 11)	Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
  
 ## Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+
 <img width="1217" height="440" alt="image" src="https://github.com/user-attachments/assets/233410cd-0642-4077-bd7a-41907d594c7b" />
+
 
  ## Result:
 Thus this program has been successfully executed.
